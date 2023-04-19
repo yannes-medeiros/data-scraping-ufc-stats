@@ -375,7 +375,7 @@ cont=0
 for i in cursor:
     cont=cont+1
     
-#    print(i)
+#ddddddddddddddddddd
 
 print("")
 print("new fights: ", n_new_fights)
